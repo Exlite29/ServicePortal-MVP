@@ -1,0 +1,5 @@
+{
+  "name": "ServicePortal MVP",
+  "description": "A customer portal for viewing bookings, attachments, and messaging, simulating a ServiceM8 integration.",
+  "requestFramePermissions": []
+}
